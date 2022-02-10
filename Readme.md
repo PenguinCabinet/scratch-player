@@ -4,7 +4,7 @@
 Scratchで制作したプロジェクトを良さげにexeで実行するツールです
 
 # ダウンロード
-[ダウンロード](https://github.com/PenguinCabinet//releases/latest)
+[ダウンロード](https://github.com/PenguinCabinet/scratch-player/releases/latest)
 
 
 # 使い方
