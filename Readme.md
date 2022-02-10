@@ -14,4 +14,5 @@ scratch_player https://scratch.mit.edu/projects/602579945
 ```
 
 # TODO
-* オフラインでの実行
+* オフラインでの実行版
+* Linux、Mac版
