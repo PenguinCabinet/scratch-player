@@ -1,4 +1,4 @@
-project_name: Oppai_benchmark
+project_name: scratch_player
 env:
   - GO111MODULE=on
 before:
@@ -9,7 +9,7 @@ checksum:
 
 builds:
   - main: .
-    binary: Oppai_benchmark
+    binary: scratch_player
     ldflags:
       - -s -w
       - -X main.Version={{.Version}}
